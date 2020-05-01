@@ -1,2 +1,1 @@
-
-TEST HIDE NOTCH
+Few extra settings
